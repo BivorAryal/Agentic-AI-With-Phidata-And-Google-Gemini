@@ -1,6 +1,7 @@
 # Agentic AI with phidata and google gemini
 '''
     # 1 Set up a githhub {Repository}
+    
         # a) new enviroment: 
             (create new enviroment in github), sync github reposiory (conda create -p venv python==3.8 -y), (conda activate venv/). 
 
